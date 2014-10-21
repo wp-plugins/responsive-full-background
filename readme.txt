@@ -1,5 +1,5 @@
 === Responsive Full Background ===
-Contributors: qassimdev
+Contributors: Qassim.Dev
 Donate link: http://j.mp/rfbp_donation
 Tags: responsive, full background, responsive background, full, background
 Requires at least: 3.0
