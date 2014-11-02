@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Responsive Full Background
-Plugin URI: http://qass.im/wp-plugins/responsive-full-background
+Plugin URI: http://qass.im/my-plugins/
 Description: Add responsive full background to your website easily, compatible with all browsers and with iPhone, iPad, and all phone and tablets.
 Version: 1.0.0
 Author: Qassim Hassan
