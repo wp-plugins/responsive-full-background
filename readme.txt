@@ -1,6 +1,6 @@
 === Responsive Full Background ===
 Contributors: Qassim.Dev
-Donate link: http://j.mp/rfbp_donation
+Donate link: http://j.mp/plugins_donation
 Tags: responsive, full background, responsive background, full, background, option, options, widget, Post, plugin, admin, posts, sidebar, google, twitter, images, comments, page, shortcode, image
 Requires at least: 3.0
 Tested up to: 4.0
@@ -16,6 +16,10 @@ Add responsive full background to your website easily.
 
 Add responsive full background to your website easily, compatible with all browsers and with iPhone, iPad, and all phone and tablets, just upload the plugin, activate it, add your background link, save changes, enjoy!.
 
+### Live Demo
+
+* [http://j.mp/rfb_plugin](http://j.mp/rfb_plugin)
+
 ### About
 
 * [The plugin designed and developed by Qassim Hassan.](http://qass.im)
@@ -25,7 +29,7 @@ Add responsive full background to your website easily, compatible with all brows
 
 ### More Plugins
 
-* [Perso Slider](https://wordpress.org/plugins/perso-slider/)
+* [My Plugins](https://profiles.wordpress.org/qassimdev/#content-plugins)
 
 == Installation ==
 
@@ -39,11 +43,6 @@ Add responsive full background to your website easily, compatible with all brows
 == Frequently Asked Questions ==
 * [For questions, contact me.](http://qass.im/message-envelope)
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
-
-== Screenshots ==
-
-1. After used Responsive Full Background plugin.
-2. One option only.
 
 == Changelog ==
 
