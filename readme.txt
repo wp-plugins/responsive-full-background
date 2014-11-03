@@ -41,7 +41,7 @@ Add responsive full background to your website easily, compatible with all brows
 * Enjoy.
 
 == Frequently Asked Questions ==
-* [For questions, contact me.](http://qass.im/message-envelope)
+* [For questions, contact me.](http://qass.im/contact)
 * [Or ask me on twitter.](https://twitter.com/Qassim_Dev)
 
 == Changelog ==
