@@ -20,6 +20,10 @@ Add responsive full background to your website easily, compatible with all brows
 
 * [http://j.mp/rfb_plugin](http://j.mp/rfb_plugin)
 
+### Rate The Plugin
+
+* [Please rate Responsive Full Background plugin](https://wordpress.org/support/view/plugin-reviews/responsive-full-background#postform)
+
 ### About
 
 * [The plugin designed and developed by Qassim Hassan.](http://qass.im)
