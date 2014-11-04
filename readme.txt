@@ -30,6 +30,7 @@ Add responsive full background to your website easily, compatible with all brows
 * [Qassim Hassan on Twitter.](https://twitter.com/Qassim_Dev)
 * [Perso Themes on Themeforest.](http://j.mp/Perso_themes)
 * [Perso Themes on Creative Market.](http://j.mp/perso_themes_creativemarket)
+* [Banner and icon designed by iFlendra, thanks to him.](https://twitter.com/iFlendra)
 
 ### More Plugins
 
