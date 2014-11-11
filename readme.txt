@@ -28,7 +28,7 @@ Add responsive full background to your website easily, compatible with all brows
 
 * [The plugin designed and developed by Qassim Hassan.](http://qass.im)
 * [Qassim Hassan on Twitter.](https://twitter.com/Qassim_Dev)
-* [My premium themes and plugins on Creative Market.](http://j.mp/perso_creativemarket)
+* [My premium themes and plugins on Creative Market.](http://j.mp/1AS73zL)
 * [My premium themes and plugins on Themeforest.](http://j.mp/Perso_themes)
 * [Banner and icon designed by iFlendra, thanks to him.](https://twitter.com/iFlendra)
 
