@@ -26,7 +26,7 @@ Add responsive full background to your website easily, compatible with all brows
 
 ### Unlimited Web Hosting
 
-* [Unlimited web hosting for $0.50 Only and one-click install WordPress](j.mp/hosting_50cent)
+* [Unlimited web hosting for $0.50 Only and one-click install WordPress](http://j.mp/hosting_50cent)
 
 ### Premium WordPress Themes And Plugins
 
