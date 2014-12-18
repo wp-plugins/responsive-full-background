@@ -24,11 +24,11 @@ Add responsive full background to your website easily, compatible with all brows
 
 * [Please rate Responsive Full Background plugin](https://wordpress.org/support/view/plugin-reviews/responsive-full-background#postform)
 
-### Unlimited Web Hosting
+### Beautiful WordPress Themes
 
-* [Unlimited web hosting for $0.50 Only and one-click install WordPress](http://j.mp/hosting_50cent)
+* [Collection of 87 themes for only $69](http://j.mp/beautiful_themes)
 
-### Premium WordPress Themes And Plugins
+### My Premium WordPress Themes And Plugins
 
 * [My premium themes and plugins on Creative Market.](http://j.mp/1AS73zL)
 * [My premium themes and plugins on Themeforest.](http://j.mp/Perso_themes)
