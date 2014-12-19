@@ -3,7 +3,7 @@ Contributors: Qassim.Dev
 Donate link: http://j.mp/plugins_donation
 Tags: responsive, full background, responsive background, full, background, option, options, widget, Post, plugin, admin, posts, sidebar, google, twitter, images, comments, page, shortcode, image
 Requires at least: 3.0
-Tested up to: 4.0.1
+Tested up to: 4.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -12,7 +12,7 @@ Add responsive full background to your website easily.
 
 == Description ==
 
-### Responsive Full Background                                            
+### Responsive Full Background                                   
 
 Add responsive full background to your website easily, compatible with all browsers and with iPhone, iPad, and all phone and tablets, just upload the plugin, activate it, add your background link, save changes, enjoy!.
 
