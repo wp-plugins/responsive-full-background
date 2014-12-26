@@ -18,7 +18,7 @@ Add responsive full background to your website easily, compatible with all brows
 
 ### Live Demo 
 
-* [http://j.mp/rfb_plugin](http://j.mp/rfb_plugin)
+* [http://j.mp/rfb_plugin_i](http://j.mp/rfb_plugin_i)
 
 ### Rate The Plugin
 
