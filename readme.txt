@@ -24,9 +24,9 @@ Add responsive full background to your website easily, compatible with all brows
 
 * [Please rate Responsive Full Background plugin](https://wordpress.org/support/view/plugin-reviews/responsive-full-background#postform)
 
-### January Big Bundle
+### Zaman - WordPress Blog theme
 
-* [Pick up 64 products worth $1,112 for just $39](http://j.mp/jan_b_b)
+* [Responsive and Retina WordPress blog Theme with a lot of features](http://j.mp/zaman_theme)
 
 ### Beautiful WordPress Themes
 
