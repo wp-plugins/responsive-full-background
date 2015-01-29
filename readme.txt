@@ -24,7 +24,7 @@ Add responsive full background to your website easily, compatible with all brows
 
 * [Please rate Responsive Full Background plugin](https://wordpress.org/support/view/plugin-reviews/responsive-full-background#postform)
 
-### Zaman - WordPress Blog theme
+### Download Zaman WordPress Blog Theme
 
 * [Responsive and Retina WordPress blog Theme with a lot of features](http://j.mp/zaman_theme)
 
