@@ -18,7 +18,7 @@ Add responsive full background to your website easily, compatible with all brows
 
 ### Live Demo 
 
-* [http://qass.im/my-plugins/responsive-full-background/](http://qass.im/my-plugins/responsive-full-background/)
+* [http://wp-time.com/responsive-full-background/](http://wp-time.com/responsive-full-background/)
 
 ### Rate The Plugin
 
