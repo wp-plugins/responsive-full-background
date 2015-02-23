@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Responsive Full Background
-Plugin URI: http://qass.im/my-plugins/
+Plugin URI: http://wp-time.com/responsive-full-background/
 Description: Add responsive full background to your website easily, compatible with all browsers and with iPhone, iPad, and all phone and tablets.
 Version: 1.0.0
 Author: Qassim Hassan
@@ -9,7 +9,7 @@ Author URI: http://qass.im
 License: GPLv2 or later
 */
 
-/*  Copyright 2014  Qassim Hassan  (email : qassim.pay@gmail.com)
+/*  Copyright 2015  Qassim Hassan  (email : qassim.pay@gmail.com)
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License, version 2, as 
