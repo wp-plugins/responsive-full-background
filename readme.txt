@@ -12,7 +12,7 @@ Add responsive full background to your website easily.
 
 == Description ==
 
-### Responsive Full Background                                                           
+### Responsive Full Background                                                            
 
 Add responsive full background to your website easily, compatible with all browsers and with iPhone, iPad, and all phone and tablets, just upload the plugin, activate it, add your background link, save changes, enjoy!.
 
