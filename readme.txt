@@ -4,7 +4,7 @@ Donate link: http://j.mp/plugins_donation
 Tags: responsive, full background, responsive background, full, background, option, options, widget, Post, plugin, admin, posts, sidebar, google, twitter, images, comments, page, shortcode, image
 Requires at least: 3.0
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,7 +62,10 @@ Add responsive full background to your website easily, compatible with all brows
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+WP Time Support.
+
+= 1.0.0 =
 First version.
 
 == Upgrade Notice ==
