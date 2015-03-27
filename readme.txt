@@ -1,6 +1,6 @@
 === Responsive Full Background ===
 Contributors: Qassim.Dev
-Donate link: http://j.mp/plugins_donation
+Donate link: http://j.mp/WPTime_donations
 Tags: responsive, full background, responsive background, full, background, option, options, widget, Post, plugin, admin, posts, sidebar, google, twitter, images, comments, page, shortcode, image
 Requires at least: 3.0
 Tested up to: 4.1.1
