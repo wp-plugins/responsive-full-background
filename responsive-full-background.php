@@ -3,7 +3,7 @@
 Plugin Name: Responsive Full Background
 Plugin URI: http://wp-time.com/responsive-full-background/
 Description: Add responsive full background to your website easily, compatible with all browsers and with iPhone, iPad, and all phone and tablets.
-Version: 1.0.1
+Version: 1.0.2
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later
