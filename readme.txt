@@ -60,7 +60,7 @@ Add responsive full background to your website easily, compatible with all brows
 == Changelog ==
 
 = 1.0.2 =
-* [WP Time need your donation.](http://j.mp/Donate_To_WPTime)
+* Support WordPress latest version.
 
 = 1.0.1 =
 WP Time Support.
