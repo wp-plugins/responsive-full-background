@@ -3,7 +3,7 @@
 Plugin Name: Responsive Full Background
 Plugin URI: http://wp-time.com/responsive-full-background/
 Description: Add responsive full background to your website easily, compatible with all browsers and with iPhone, iPad, and all phone and tablets.
-Version: 1.0.2
+Version: 1.0.3
 Author: Qassim Hassan
 Author URI: http://qass.im
 License: GPLv2 or later
@@ -30,7 +30,7 @@ if ( is_admin() ){
 
 
 	function responsive_full_background() {
-		add_theme_page( 'Responsive Full Background Settings', 'Responsive Full Background', 'edit_theme_options', 'responsive_full_background', 'responsive_full_background_settings' );
+		add_plugins_page( 'Responsive Full Background Settings', 'Responsive Full Background', 'update_core', 'responsive_full_background', 'responsive_full_background_settings' );
 	}
 	add_action( 'admin_menu', 'responsive_full_background' );
 
