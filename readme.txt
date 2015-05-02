@@ -48,7 +48,7 @@ Add responsive full background to your website easily, compatible with all brows
 
 * Upload 'responsive-full-background' folder to the '/wp-content/plugins/' directory.
 * Activate the plugin through the 'Plugins' menu in WordPress.
-* Go to Appearance menu > Responsive Full Background.
+* Go to wp-admin > Plugins > Responsive Full Background.
 * Enter your background link.
 * Click on 'Save Changes' button.
 * Enjoy.
@@ -61,7 +61,7 @@ Add responsive full background to your website easily, compatible with all brows
 
 = 1.0.3 =
 * add_plugins_page function.
-* Now to find the shortcodes, go to your wp-admin > Plugins > Responsive Full Background.
+* Now to find the options page, go to your wp-admin > Plugins > Responsive Full Background.
 
 = 1.0.2 =
 * Support WordPress latest version.
